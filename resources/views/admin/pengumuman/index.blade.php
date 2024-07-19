@@ -8,7 +8,7 @@
 <table class="table">
     <tr>
         <td scope="col">No</td>
-        <td scope="col">Judul Pengumuman</td>
+        <td scope="col">Judul</td>
         <td scope="col">Isi Pengumuman</td>
         <td scope="col">Tgl Posting</td>
         <td scope="col">Aksi</td>
